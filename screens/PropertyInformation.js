@@ -668,7 +668,6 @@ const PropertyInformation = ({ navigation }) => {
           <Layout>
                <StripeProvider publishableKey="pk_test_51JpykoSAQwW5QLe07A81QSN7eOr7MwJJEoZuUmGTLR89Utg5PDYC9b8U0xeHRwe6JsZ9cB2Iu4HIIW77m8WrJaug0044zPoHP4">
                <Header navigation={navigation} title="Property Informatiuon" />
-               {!monthlyData ? (
                          <Container style={{ flex: 1, backgroundColor: COLORS.lightGray2}}>
                          {/* Header section */}
                          {renderHeader()}
@@ -695,9 +694,6 @@ const PropertyInformation = ({ navigation }) => {
 
                          </ScrollView>                      
                     </Container>
-                    ) : (
-                         <PropertyInformation1 />
-                         )}
                </StripeProvider>
           </Layout>
     
