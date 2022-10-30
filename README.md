@@ -6,15 +6,25 @@ The intended use of the application is to provide simple and effective communica
 There are three types of roles available: 
 
 GENERAL USER:
+
 •	Any member can register and view the available information.
+
 •	Help panel is available to communicate queries in hand.
+
 •	Users will receive general notification updates 
 
 USER WITH AN ACCOUNT:
-•	Users will view account information such as services usages, invoices, recent payments 
-•	Communicate queries on the Chatbox, Update personal and property details. 
+
+•	Users will view account information such as services usages, invoices, recent payments
+
+•	Communicate queries on the Chatbox, Update personal and property details.
+
 
 ADMIN /MANAGEMENT HAS:
-•	The admin can post updates on the system 
-•	Can edit and update the database information 
+
+•	The admin can post updates on the system
+
+•	Can edit and update the database information
+
 •	See all end-user data in the database
+
