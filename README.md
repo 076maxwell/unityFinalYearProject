@@ -6,8 +6,10 @@ The intended use of the application is to provide simple and effective communica
 There are three types of roles available: 
 
 GENERAL USER
-•	Any member can register and view the available information. 
+•	Any member can register and view the available information.
+
 •	Help panel is available to communicate queries in hand.
+
 •	Users will receive general notification updates 
 
 USER WITH AN ACCOUNT:
