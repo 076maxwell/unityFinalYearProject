@@ -1,6 +1,7 @@
 # unityFinalYearProject
 
-Short description: 
+Short description:
+
 The intended use of the application is to provide simple and effective communication between the municipalities and their customers. The application’s main functions are to provide accurate bills, ease billing information updates, service usage from month to month, submission of requests, the ability to track the request, simple information inquiries and a notification panel for updates. A simple chatbot for easy inquiries and directories/customer service lines (phone numbers) for specific department-based inquiries, with the aid of a relational database and UI/UX. we provide the information/services to the customer.  We intended to create an easy-to-use self-service app, to let any and every customer avoid long queues.
 
 There are three types of roles available: 
