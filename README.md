@@ -20,7 +20,7 @@ USER WITH AN ACCOUNT:
 •	Communicate queries on the Chatbox, Update personal and property details.
 
 
-ADMIN /MANAGEMENT HAS:
+ADMIN/MANAGEMENT:
 
 •	The admin can post updates on the system
 
