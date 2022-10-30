@@ -16,7 +16,6 @@ import DropDownPicker from 'react-native-dropdown-picker';
 import { Dropdown } from 'react-native-element-dropdown';
 import AntDesign from 'react-native-vector-icons/AntDesign';
 import { Button, Menu, Divider, Provider } from 'react-native-paper';
-import PropertyInformation1 from "./PropertyInformation1"
 
 LogBox.ignoreLogs(['VirtualizedLists should never be nested inside plain ScrollViews with the same orientation because it can break windowing and other functionality']);
 
@@ -270,10 +269,7 @@ const PropertyInformation = ({ navigation }) => {
                                         onChange={(item) => {
                                         setValue(item.value);
                                         setIsFocus(false);
-                                         if (item.value == 10)  {
-                                             setIsLoading(true);;
-                                             setMonthlyData(false)
-                                        } else if (item.value)  {
+                                             if (item.value)  {
                                              Alert.alert(
                                                   item.label,
                                                   "The data for the month you selected is currently unavaible, Please contact the administrator"
